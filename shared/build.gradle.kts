@@ -78,7 +78,7 @@ publishing {
     repositories {
         maven {
             name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/touchlab/KMMProExtractModuleAndroid")
+            url = uri("https://maven.pkg.github.com/touchlab/TouchlabProExtractModuleAndroid")
             credentials {
                 username = publishUsername
                 password = publishToken
